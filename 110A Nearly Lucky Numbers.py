@@ -16,7 +16,7 @@ for i in str(luckyDigitsCounter):       #Supposing the counter can be more than 
 else:       #for runs without break
     print("YES")
 
-#Implimentation with a one digit counter
+#Implementation with one digit counter
 # if luckyDigitsCounter == 4 or luckyDigitsCounter == 7:
 #     print("YES")
 # else:
