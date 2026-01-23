@@ -11,4 +11,4 @@ print(counterResult)
     
 
 #Casos válidos       000, 001, 010, 100
-#Casos no válidos    101, 110, 111. 011
+#Casos no válidos    101, 110, 111, 011
