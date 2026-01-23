@@ -5,7 +5,7 @@
 n = input()     #Never used
 line = input()
 
-if line.find('1') != -1:    #Returns -1 if doesn't find any
+if line.find('1') != -1:    #Returns -1 if it doesn't find any
     print("HARD")
 else:
     print("EASY")
